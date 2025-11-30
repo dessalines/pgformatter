@@ -6,7 +6,7 @@ Source code is at https://github.com/dessalines/pgformatter
 
 ## Usage
 
-```
+```sh
 docker run --mount type=bind,\
   source=[SQL_SRC_DIR],\
   target=/app \
